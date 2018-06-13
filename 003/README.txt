@@ -1,6 +1,5 @@
 $ make
-Now 
-$ ls -lrt
+Now
 $ ls -l volatile_003.s
 -rw-r--r-- 1 user user 981 Jun 13 14:18 volatile_003.s
 
